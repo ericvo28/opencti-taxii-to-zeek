@@ -62,7 +62,7 @@ fetch_all_to_one_bundle(
 ## Usage
 
 ```bash
-python3 fetch_opencti_bundle.py
+python3 getTaxii.py
 ```
 
 The script will:
